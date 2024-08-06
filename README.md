@@ -1,7 +1,7 @@
 # udp-sender
 ## Simple tool for sending UDP packets
 
-In the data field insert packets captured by tcpdump, like the following:
+In the data field insert packet data captured by tcpdump -X, like the following:
 
 ```
 0x0000:  4500 006e 970e 0000 7111 26ef 3e76 5010  E..n....q.&.>vP. 
